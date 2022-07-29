@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Kamil Kmita. I hold a position of Research Assistant at Systems Research Institute, Polish Academy of Sciences, where I work on my PhD
+in [BIPOLAR project](http://bipolar.ibspan.waw.pl/Home.html).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I would describe myself as a statistician and a data scientist with a primary focus on *healthcare data analysis*.
+Having worked in the business for a couple of years, I decided to start my academic career.
+Things I work on/enjoy:
 
-What else do you need?
+- uncertainty in statistical modeling,
+- programming in Python,
+- monitoring of mental disorders such as bipolar disorder,
+- writing scientific articles.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

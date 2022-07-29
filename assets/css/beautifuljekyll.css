@@ -189,7 +189,9 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
+  /*font-weight: 800;*/
   font-weight: 800;
+  font-size: 1rem;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
@@ -705,7 +707,9 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    /* TODO: here? */
+    /*font-size: 5rem;*/
+    font-size: 4rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
