@@ -30,16 +30,16 @@ These days it's quite feasible to monitor a patient's status with remote sensors
 Patients diagnosed with bipolar disease may, for example, use dedicated smartphone apps 
 that analyze characteristics of their voice  (e.g. the average amount of jittering).
 Thanks to that, specialists may train statistical models that predict the onset of the new disease phase.
-It is crucial in the efficient treatment of the disease.
+Ability to react qucikly to this onset is crucial in the efficient treatment of the disease.
 
-However, training algorithms require lots of annotated data.
+Training algorithms require lots of annotated data.
 One needs many examples of phone calls associated with different phases of the disease.
 However, such information may be infeasible to obtain for many reasons.
 A pretty basic one is that because of privacy reasons the application on your smartphone will not store 
 the actual content of the conversation.
 Only the characteristics of your voice (such as the aforementioned jittering) may be persisted and 
 used for training predictive algorithms.
-How to label these phone calls then in terms of the disease phases such as *mania* or *depression* 
+How to label these phone calls in terms of the disease phases such as *mania* or *depression* 
 if the experts cannot even listen to the conversation?
 
 To overcome this problem, a so-called **ground truth period extrapolation** is usually performed.
@@ -55,15 +55,15 @@ are assigned a label $$y_{\text{visit}}$$=`mania` provided by the psychiatrist d
 
 Uncertainty naturally arises about whether all calls should be equally treated as supervised to the same extent.
 Let's consider a patient in a state of mania.
-Now, one of the calls recorded during the **ground truth period** was a quick discussion with the patient's boss, 
+Suppose that one of the calls recorded during the ground truth period was a quick discussion with the patient's boss, 
 while the next one was a long, passionate discussion with their friend.
-The voice characteristics obtained during each of these would be presented to the algorithm as 
-typical of disease phase $$y_{\text{visit}}$$=`mania` **to the same extent**.
+The voice characteristics obtained during each of these calls would be presented to the algorithm as 
+**typical** of disease phase $$y_{\text{visit}}$$=`mania` **to the same extent**.
 Should they really be treated this way? 
 Would they be if the expert could carefully listen to them and express their opinion?
 Obviously, we don't know the topic of the conversation, but we would still like to adjust the strength of supervision 
 anyway.
-We are willing to estimate if - based on all the data we have - the supervised phone call is 
+Our goal can be formulated as the task of estimation if - based on all the data we have - the supervised phone call is 
 *highly certain* or *less so* for the specific phase of the disease?
 
 We can accomplish this estimation task using our novel method - **Confidence Path Regularization**
@@ -79,7 +79,8 @@ be consistently assigned high degrees of membership to the
 supervised class by the learning algorithms across varying values
 of confidence factor.
 
-More details in our article!
+More details in our article! You can access the Accepted Paper version directly 
+<a href="/pdfs/KmitaCasalinoCastellanoHryniewiczKaczmarekMajer2022AcceptedPaper.pdf" class="image fit" target="_blank">here</a>.
 
 ## links
 
