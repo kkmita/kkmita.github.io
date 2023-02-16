@@ -31,5 +31,4 @@ A couple of things I work on/enjoy:
 - fuzzy clustering,
 - programming in Python,
 - problem of health status prediction in monitoring mental disorders such as bipolar disorder,
-- writing scientific articles. I've always disliked poetry, it was not my thing at all,
-but now I do better understand poets and poetry readers: a good scientific article has a lot in common with a good poem.
+- writing scientific articles.
