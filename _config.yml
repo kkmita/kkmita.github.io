@@ -27,6 +27,7 @@ navbar-links:
   Home: "index.html"
   Research: "research"
   About Me: "aboutme"
+  Teaching: "teaching"
   Resources:
     - BIPOLAR: "http://bipolar.ibspan.waw.pl/Home.html"
     - SRI PAS: "https://www.ibspan.waw.pl/en/home/"
