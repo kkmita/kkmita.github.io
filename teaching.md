@@ -23,6 +23,23 @@ do obliczeń numerycznych w bibliotece NumPy:
 
 Kliknij, aby pobrać notebook.
 
-| ID | data | Wersja na zajęcia     | Pełna wersja |
-| -- | - | -----------           | ----------- |
-| 1 | 2023-02-23 | <a href="/zmum/lab-01-pl-student.ipynb" class="image fit" target="_blank">`lab-01-pl-student.ipynb`</a>     | niedostępny       |
+ <table>
+  <tr>
+    <th>ID</th>
+    <th>data</th>
+    <th>Wersja na zajęcia</th>
+    <th>Wersja z rozwiązaniami</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2022-02-03</td>
+    <td><a href="/zmum/lab-01-pl-student.ipynb" class="image fit" target="_blank">lab-01-pl-student.ipynb</a></td>
+    <td><a href="/zmum/lab-01-pl-rozwiazania.ipynb" class="image fit" target="_blank">lab-01-pl-rozwiazania.ipynb</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>2022-03-02</td>
+    <td>niedostępne</td>
+    <td>niedostępne</td>
+  </tr>
+</table> 
