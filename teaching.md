@@ -32,7 +32,7 @@ Kliknij, aby pobrać notebook.
   </tr>
   <tr>
     <td>1</td>
-    <td>2022-02-03</td>
+    <td>2022-02-23</td>
     <td><a href="/zmum/lab-01-pl-student.ipynb" class="image fit" target="_blank">lab-01-pl-student.ipynb</a></td>
     <td><a href="/zmum/lab-01-pl-rozwiazania.ipynb" class="image fit" target="_blank">lab-01-pl-rozwiazania.ipynb</a></td>
   </tr>
