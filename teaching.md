@@ -37,9 +37,15 @@ Kliknij, aby pobrać notebook.
     <td><a href="/zmum/lab-01-pl-rozwiazania.ipynb" class="image fit" target="_blank">lab-01-pl-rozwiazania.ipynb</a></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>.</td>
     <td>2022-03-02</td>
-    <td>niedostępne</td>
-    <td>niedostępne</td>
+    <td>odwołane - do odrobienia</td>
+    <td>odwołane - do odrobienia</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>2022-03-09</td>
+    <td><a href="/zmum/lab-02-pl-student.ipynb" class="image fit" target="_blank">lab-02-pl-student.ipynb</a></td>
+    <td>niedostępne</td>
+  </tr>  
 </table> 
