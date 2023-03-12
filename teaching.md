@@ -46,6 +46,6 @@ Kliknij, aby pobrać notebook.
     <td>2</td>
     <td>2022-03-09</td>
     <td><a href="/zmum/lab-02-pl-student.ipynb" class="image fit" target="_blank">lab-02-pl-student.ipynb</a></td>
-    <td>niedostępne</td>
+    <td><a href="/zmum/lab-02-pl-rozwiazania.ipynb" class="image fit" target="_blank">lab-02-pl-rozwiazania.ipynb</a></td>
   </tr>  
 </table> 
