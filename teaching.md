@@ -48,4 +48,19 @@ Kliknij, aby pobrać notebook.
     <td><a href="/zmum/lab-02-pl-student.ipynb" class="image fit" target="_blank">lab-02-pl-student.ipynb</a></td>
     <td><a href="/zmum/lab-02-pl-rozwiazania.ipynb" class="image fit" target="_blank">lab-02-pl-rozwiazania.ipynb</a></td>
   </tr>  
+  <tr>
+    <td>3</td>
+    <td>2022-03-16</td>
+    <td>
+      <ul>
+        <li>
+          <a href="/zmum/lab-03-pl-student.ipynb" class="image fit" target="_blank">lab-03-pl-student.ipynb</a>
+        </li>
+        <li>
+          <a href="/zmum/lab-03-pl-slides.pdf" class="image fit" target="_blank">lab-03-pl-slides.pdf</a>
+        </li>
+      </ul>
+    </td>
+    <td>niedostępne</td>
+  </tr>    
 </table> 
