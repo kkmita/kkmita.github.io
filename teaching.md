@@ -57,10 +57,10 @@ Kliknij, aby pobrać notebook.
           <a href="/zmum/lab-03-pl-student.ipynb" class="image fit" target="_blank">lab-03-pl-student.ipynb</a>
         </li>
         <li>
-          <a href="/zmum/lab-03-pl-slides.pdf" class="image fit" target="_blank">lab-03-pl-slides.pdf</a>
+          <a href="/zmum/lab-03-pl-slides-v2.pdf" class="image fit" target="_blank">lab-03-pl-slides-v2.pdf</a>
         </li>
       </ul>
     </td>
-    <td>niedostępne</td>
+    <td><a href="/zmum/lab-03-pl-rozwiazania.ipynb" class="image fit" target="_blank">lab-03-pl-rozwiazania.ipynb</a></td>
   </tr>    
 </table> 
