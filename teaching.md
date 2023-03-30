@@ -69,9 +69,15 @@ Kliknij, aby pobrać notebook.
     <td><a href="/zmum/lab-04-pl-student.ipynb" class="image fit" target="_blank">lab-04-pl-student.ipynb</a></td>
     <td>niedostępne</td>
   </tr>    
+  <tr>
+    <td>5</td>
+    <td>2022-03-30</td>
+    <td><a href="/zmum/lab-05-pl-student.ipynb" class="image fit" target="_blank">lab-05-pl-student.ipynb</a></td>
+    <td>niedostępne</td>
+  </tr>      
 </table> 
 
 
 ### Projekty
 
-* <a href="/zmum/ZMUM_mini_projekt_1.pdf" class="image fit" target="_blank">Mini-projekt 1 [10 pkt]</a>
+* <a href="/zmum/ZMUM_mini_projekt_1.pdf" class="image fit" target="_blank">Mini-projekt 1 [10 pkt]</a>,
