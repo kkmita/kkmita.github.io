@@ -72,9 +72,33 @@ Kliknij, aby pobrać notebook.
   <tr>
     <td>5</td>
     <td>2022-03-30</td>
-    <td><a href="/zmum/lab-05-pl-student.ipynb" class="image fit" target="_blank">lab-05-pl-student.ipynb</a></td>
+    <td>
+      <ul>
+        <li>
+          <a href="/zmum/lab-05-pl-student.ipynb" class="image fit" target="_blank">lab-05-pl-student.ipynb</a>
+        </li>
+        <li>
+          <a href="/zmum/lab-05-pl-student-kont.ipynb" class="image fit" target="_blank">lab-05-pl-student-kont.ipynb</a>
+        </li>
+      </ul>
+    </td>
     <td>niedostępne</td>
-  </tr>      
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>2022-04-06</td>
+    <td>
+      <ul>
+        <li>
+          <a href="/zmum/lab-06-pl-zadanie.pdf" class="image fit" target="_blank">lab-06-pl-zadanie.pdf</a>
+        </li>
+        <li>
+          <a href="/zmum/lab-06-pl-student.R" class="image fit" target="_blank">lab-06-pl-student.R</a>
+        </li>
+      </ul>
+    </td>
+    <td>niedostępne</td>
+  </tr>       
 </table> 
 
 
