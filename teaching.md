@@ -98,7 +98,13 @@ Kliknij, aby pobrać notebook.
       </ul>
     </td>
     <td>niedostępne</td>
-  </tr>       
+  </tr>     
+  <tr>
+    <td>7</td>
+    <td>2022-04-13</td>
+    <td><a href="/zmum/lab-07-pl-student.ipynb" class="image fit" target="_blank">lab-07-pl-student.ipynb</a></td>
+    <td>niedostępne</td>
+  </tr>      
 </table> 
 
 
