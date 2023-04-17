@@ -21,7 +21,9 @@ do obliczeń numerycznych w bibliotece NumPy:
 
 ### Zajęcia - materiały do pobrania
 
-Kliknij, aby pobrać notebook.
+Materiały zostały przeniesione na MS Teams.
+
+<!-- Kliknij, aby pobrać notebook.
 
  <table>
   <tr>
@@ -110,4 +112,4 @@ Kliknij, aby pobrać notebook.
 
 ### Projekty
 
-* <a href="/zmum/ZMUM_mini_projekt_1.pdf" class="image fit" target="_blank">Mini-projekt 1 [10 pkt]</a>,
+* <a href="/zmum/ZMUM_mini_projekt_1.pdf" class="image fit" target="_blank">Mini-projekt 1 [10 pkt]</a>, -->
