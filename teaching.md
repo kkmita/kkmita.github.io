@@ -6,6 +6,10 @@ subtitle:
 
 # 2022/2023
 
+## Analysis of Uncertain Data
+
+<a href="/pdfs/warsztaty-mini-fuzzy-clustering.pdf" class="image fit" target="_blank">Slajdy</a>.
+
 ## Zaawansowane Metody Uczenia Maszynowego (*Advanced Machine Learning*), MiNI PW
 
 ### Materiały do nauki Python w wymaganym zakresie
