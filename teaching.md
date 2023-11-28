@@ -6,9 +6,11 @@ subtitle:
 
 # 2022/2023
 
-## Analysis of Uncertain Data
+## Analysis of Uncertain Data Research Workshop
 
-<a href="/pdfs/warsztaty-mini-fuzzy-clustering.pdf" class="image fit" target="_blank">Slajdy</a>.
+Held at MiNI PW (Warsaw University of Technology).
+
+<a href="/pdfs/warsztaty-mini-fuzzy-clustering.pdf" class="image fit" target="_blank">Link to the slides.</a>.
 
 ## Zaawansowane Metody Uczenia Maszynowego (*Advanced Machine Learning*), MiNI PW
 
